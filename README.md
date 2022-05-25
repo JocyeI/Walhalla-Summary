@@ -3,6 +3,6 @@
 
 [![Walhalla-Summary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walhalla-Summary&show_icons=true&theme=tokyonight)](https://github.com/Walhalla-Summary/Walhalla-Summary)
 
-[![Walhalla-Summary - repo - BigData](https://github-readme-stats.vercel.app/api/pin/?username=Walhalla-Summary&repo=BigData)]((https://github.com/Walhalla-Summary/BigData)
+[![repo - BigData](https://github-readme-stats.vercel.app/api/pin/?username=Walhalla-Summary&repo=BigData)]((https://github.com/Walhalla-Summary/BigData)
 
-[![Walhalla-Summary - repo - BigData](https://github-readme-stats.vercel.app/api/pin/?username=Walhalla-Summary&repo=BigData)]((https://github.com/Walhalla-Summary/BigData)
+[![repo - BigData](https://github-readme-stats.vercel.app/api/pin/?username=Walhalla-Summary&repo=BigData)]((https://github.com/Walhalla-Summary/BigData)
