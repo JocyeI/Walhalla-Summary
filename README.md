@@ -7,7 +7,7 @@
 
 <p align="center">
  <p align="center">学习笔记总结</p>
- <p align="center">大数据相关技术笔记</p>
+ <p align="center">大数据技术栈</p>
  <p align="center">编程语言</p>
  <p align="center">数据库</p>
  <p align="center">虚拟容器技术</p>
