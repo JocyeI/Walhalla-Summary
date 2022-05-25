@@ -15,4 +15,4 @@
     <img src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/mmexport1653486153188.jpg" height="180">
 </p>
 
-[![Walhalla-Summary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walhalla-Summary)](https://github.com/Walhalla-Summary/Walhalla-Summary)
+[![Walhalla-Summary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walhalla-Summary&show_icons=true&theme=merko)](https://github.com/Walhalla-Summary/Walhalla-Summary)
