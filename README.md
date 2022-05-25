@@ -12,7 +12,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/mmexport1653486153188.jpg" height="260">
+    <img src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/mmexport1653486153188.jpg" height="180">
 </p>
 <p align="center">
     [![Walhalla-Summary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walhalla-Summary)](https://github.com/Walhalla-Summary/Walhalla-Summary)
