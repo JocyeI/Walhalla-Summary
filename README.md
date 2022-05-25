@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Walhalla-Summary](https://github-readme-stats.vercel.app/api/pin/?username=Walhalla-Summary&repo=Walhalla-Summary)](https://github.com/Walhalla-Summary/Walhalla-Summary)
+[![BigData](https://github-readme-stats.vercel.app/api/pin/?username=Walhalla-Summary&repo=BigData)](https://github.com/Walhalla-Summary/BigData)
 [![Walhalla-Summary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walhalla-Summary)](https://github.com/Walhalla-Summary/Walhalla-Summary)
 
