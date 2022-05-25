@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <h1 align="center">学习笔记总结</h1>
+ <p>学习笔记总结</p>
  <h2 align="center">大数据相关技术笔记</h2>
  <h2 align="center">编程语言</h2>
  <h2 align="center">数据库</h2>
