@@ -7,6 +7,8 @@
  <h2 align="center">Walhalla is a ✨ _special_ ✨ bigdata dev.</h2>
 </p>
 
+https://img.shields.io/badge/dynamic/xml?color=orange&label=Walhalla&query=//div[@class=“user-profile-head-info-m”]//span&url=https://blog.csdn.net/weixin_45611297?type=blog
+
 <p align="center">
  <p align="center">学习笔记总结</p>
  <p align="center">大数据技术栈</p>
