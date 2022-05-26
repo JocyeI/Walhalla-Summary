@@ -11,8 +11,11 @@
  <a href="https://github.com/Walhalla-Summary">
  <img alt="auther" src="https://img.shields.io/badge/auther-Walhalla-orange">
  </a>
+ <a href="https://github.com/Walhalla-Summary/BigData">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=BigData&logo=size&logoColor=orange&style=plastic">
+ </a>
 </p>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=BigData&logo=size&logoColor=orange&style=plastic">
+
 
 <p align="center">
  <p align="center">学习笔记总结</p>
