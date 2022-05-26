@@ -6,7 +6,7 @@
  </a>
  <h2 align="center">Walhalla is a ✨ _special_ ✨ bigdata dev.</h2>
 </p>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=reposize&logo=size&logoColor=orange&style=plastic">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=BigData&logo=size&logoColor=orange&style=plastic">
 
 <p align="center">
  <p align="center">学习笔记总结</p>
