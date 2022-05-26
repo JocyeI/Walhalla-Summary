@@ -12,7 +12,7 @@
  <img alt="auther" src="https://img.shields.io/badge/auther-Walhalla-orange">
  </a>
  <a href="https://github.com/Walhalla-Summary/BigData">
- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=BigData&logo=size&logoColor=orange&style=flat">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=bigdata&logo=size&logoColor=orange&style=flat">
  </a>
  <a href="https://github.com/Walhalla-Summary">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
