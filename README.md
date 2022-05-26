@@ -22,11 +22,3 @@
  <img alt="auther" src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220526142602.png" width="50%" height="25%">
  </a>
 </p>
-<p align="center">
- <p align="center">大数据技术栈</p>
- <p align="center">编程语言</p>
- <p align="center">数据库</p>
- <p align="center">虚拟容器技术</p>
- <p align="center">数据结构与算法</p>
- <p align="center">计算机基础</p>
-</p>
