@@ -13,7 +13,6 @@
  </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
  <p align="center">学习笔记总结</p>
  <p align="center">大数据技术栈</p>
