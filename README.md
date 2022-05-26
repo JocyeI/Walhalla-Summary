@@ -18,16 +18,16 @@
  </a>
 </p>
 <p align="center">
- <p align="center">学习笔记总结</p>
  <p align="center">大数据技术栈</p>
  <p align="center">编程语言</p>
  <p align="center">数据库</p>
  <p align="center">虚拟容器技术</p>
+ <p align="center">数据结构与算法</p>
  <p align="center">计算机基础</p>
 </p>
 <p align="center">
  <a href="https://github.com/Walhalla-Summary">
- <img alt="auther" src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/code0220526141442.png" width="50%" height="50%">
+ <img alt="auther" src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/code0220526141442.png" width="120%" height="60%">
  </a>
 </p>
 
