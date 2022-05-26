@@ -6,6 +6,11 @@
  </a>
  <h2 align="center">Walhalla is a ✨ _special_ ✨ bigdata dev.</h2>
 </p>
+
+<p align="center">
+ <a href="https://img.shields.io/badge/auther-Walhalla-orange">
+</p>
+
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=BigData&logo=size&logoColor=orange&style=plastic">
 
 <p align="center">
