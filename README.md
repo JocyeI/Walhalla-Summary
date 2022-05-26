@@ -13,10 +13,25 @@
  <a href="https://github.com/Walhalla-Summary/BigData">
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=bigdata&logo=size&logoColor=orange&style=flat">
  </a>
-  </a>
+ </a>
  <a href="https://github.com/Walhalla-Summary/SQL">
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/SQL?color=blue&label=SQL&logo=size&logoColor=orange&style=flat">
  </a>
+ <a href="https://github.com/Walhalla-Summary/ Programming_Languages">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/ Programming_Languages?color=blue&label=Languges&logo=size&logoColor=orange&style=flat">
+ </a>
+ <a href="https://github.com/Walhalla-Summary/Algorithm_Notes">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Algorithm_Notes?color=blue&label=Algorithm&logo=size&logoColor=orange&style=flat">
+ </a>
+ 
+ <a href="https://github.com/Walhalla-Summary/Linux_Notes">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Linux_Notes?color=blue&label=Linux&logo=size&logoColor=orange&style=flat">
+ </a>
+ 
+ <a href="https://github.com/Walhalla-Summary/Computer_Basics">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/ Computer_Basics?color=blue&label=Computer&logo=size&logoColor=orange&style=flat">
+ </a>
+ 
  <a href="https://github.com/Walhalla-Summary">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
  </a>
