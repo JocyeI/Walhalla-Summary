@@ -2,7 +2,8 @@
 
 <p align="center">
  <a href="https://github.com/Walhalla-Summary/BigData">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walhalla-Summary&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walhalla-Summary&show_icons=true&theme=tokyonight" />
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=reposize&logo=size&logoColor=orange&style=plastic">
  </a>
  <h2 align="center">Walhalla is a ✨ _special_ ✨ bigdata dev.</h2>
 </p>
