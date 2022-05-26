@@ -27,7 +27,7 @@
 </p>
 <p align="center">
  <a href="https://github.com/Walhalla-Summary">
- <img alt="auther" src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/code0220526141442.png width="50%" height="50%">
+ <img alt="auther" src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/code0220526141442.png" width="50%" height="50%">
  </a>
 </p>
 
