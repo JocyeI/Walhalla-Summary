@@ -13,6 +13,10 @@
  <a href="https://github.com/Walhalla-Summary/BigData">
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/BigData?color=blue&label=bigdata&logo=size&logoColor=orange&style=flat">
  </a>
+  </a>
+ <a href="https://github.com/Walhalla-Summary/SQL">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/SQL?color=blue&label=SQL&logo=size&logoColor=orange&style=flat">
+ </a>
  <a href="https://github.com/Walhalla-Summary">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
  </a>
