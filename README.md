@@ -17,7 +17,7 @@
  <a href="https://github.com/Walhalla-Summary/SQL">
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/SQL?color=blue&label=sql&logo=size&logoColor=orange&style=flat">
  </a>
- <a href="https://github.com/Walhalla-Summary/ Programming_Languages">
+ <a href="https://github.com/Walhalla-Summary/Programming_Languages">
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Programming_Languages?color=blue&label=languges&logo=size&logoColor=orange&style=flat">
  </a>
  <a href="https://github.com/Walhalla-Summary/Algorithm_Notes">
