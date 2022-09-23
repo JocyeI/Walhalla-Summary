@@ -45,7 +45,7 @@
  </a>
 </p>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Walhalla-Summary&row=2&column=3&no-frame=true&margin-w=45&margin-h=30&theme=algolia" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Walhalla-Summary" /> </div>
+< -- !<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Walhalla-Summary" /> </div>!-->
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=Walhalla-Summary&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
