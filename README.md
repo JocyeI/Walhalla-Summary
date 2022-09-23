@@ -44,8 +44,9 @@
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
  </a>
 </p>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Walhalla-Summary" /> </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+、
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=Walhalla-Summary&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
