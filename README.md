@@ -45,6 +45,8 @@
  </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- GitHub Activity Graph -->
 <div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=Walhalla-Summary&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
 
