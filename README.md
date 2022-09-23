@@ -32,10 +32,22 @@
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Computer_Basics?color=blue&label=computer&logo=size&logoColor=orange&style=flat">
  </a>
  
+ 
+ 
  <a href="https://github.com/Walhalla-Summary">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
  </a>
+ 
+ <a href="https://github.com/Walhalla-Summary/Pytorch_Learning">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Pytorch_Learning?color=blue&label=computer&logo=size&logoColor=orange&style=flat">
+ </a>
+ 
+ <a href="https://github.com/Walhalla-Summary/Python_Learning">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Python_Learning?color=blue&label=computer&logo=size&logoColor=orange&style=flat">
+ </a>
+ 
 </p>
+
 <p align="center">
  <a href="https://github.com/Walhalla-Summary">
  <img  src="https://github.com/Walhalla-Summary/Walhalla-Summary/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220526142602.png" width="50%" height="25%">
