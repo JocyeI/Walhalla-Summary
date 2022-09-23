@@ -32,19 +32,19 @@
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Computer_Basics?color=blue&label=computer&logo=size&logoColor=orange&style=flat">
  </a>
  
+ <a href="https://github.com/Walhalla-Summary/Pytorch_Learning">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Pytorch_Learning?color=blue&label=pytorch&logo=size&logoColor=orange&style=flat">
+ </a>
  
+ <a href="https://github.com/Walhalla-Summary/Python_Learning">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Python_Learning?color=blue&label=python&logo=size&logoColor=orange&style=flat">
+ </a>
  
  <a href="https://github.com/Walhalla-Summary">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
  </a>
  
- <a href="https://github.com/Walhalla-Summary/Pytorch_Learning">
- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Pytorch_Learning?color=blue&label=computer&logo=size&logoColor=orange&style=flat">
- </a>
  
- <a href="https://github.com/Walhalla-Summary/Python_Learning">
- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Walhalla-Summary/Python_Learning?color=blue&label=computer&logo=size&logoColor=orange&style=flat">
- </a>
  
 </p>
 
