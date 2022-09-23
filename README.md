@@ -43,8 +43,8 @@
  <a href="https://github.com/Walhalla-Summary">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
  </a>
- 
- 
- 
 </p>
+
+<!-- GitHub Activity Graph -->
+<div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=Walhalla&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
 
