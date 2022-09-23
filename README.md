@@ -44,7 +44,7 @@
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Walhalla-Summary/Walhalla-Summary?label=last_commit&logo=today">
  </a>
 </p>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Walhalla-Summary" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Walhalla-Summary&row=2&column=3" /> </div>
 
 、
 
